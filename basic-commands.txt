@@ -4,11 +4,11 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin "Repository URL"
+git remote add origin "Repository HTTPS URL" (To connect local and remote repositories)
 git push -u origin main
 
 ... or push an existing repository from the cmd
 
-git remote add origin "Repository URL"
+git remote add origin "Repository URL" (To connect local and remote repositories)
 git branch -M main
 git push -u origin main
