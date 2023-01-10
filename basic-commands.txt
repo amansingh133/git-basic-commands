@@ -12,3 +12,5 @@ git push -u origin main
 git remote add origin "Repository URL" (To connect local and remote repositories)
 git branch -M main
 git push -u origin main
+
+Just checking git commit -a -m "message" command to skip the staging (git add .) step
